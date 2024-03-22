@@ -19,4 +19,3 @@ The project is live and can be accessed [here](https://joke-teller-delta.vercel.
 ## API Information
 - Text to Speech API Endpoint: [VoiceRSS](https://www.voicerss.org/api/)
 - Joke API Endpoint: [JokeAPI](https://v2.jokeapi.dev/)
-- 
